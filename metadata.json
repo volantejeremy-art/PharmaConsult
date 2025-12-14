@@ -1,0 +1,7 @@
+{
+  "name": "PharmaConsult",
+  "description": "Assistant Pharmaceutique Intelligent",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
